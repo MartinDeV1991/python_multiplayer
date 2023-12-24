@@ -1,6 +1,6 @@
 import socket
 
-server = "192.168.1.69"
+server = "//server IP address"
 port = 5555
 
 
